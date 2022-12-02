@@ -1,0 +1,10 @@
+.buttonAll {
+    /*margin: 30px 15px 30px 30px;*/
+    padding: 10% 15px 10% 30px;
+    float:left;
+}
+
+button {
+    width: 80px;
+    height: 30px;
+}
